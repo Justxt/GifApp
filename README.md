@@ -2,4 +2,4 @@
 
 #React Project Practice #2
 
-![review](image.png)
+![image](image-1.png)
