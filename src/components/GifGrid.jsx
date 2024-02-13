@@ -7,7 +7,7 @@ export const GifGrid = ({ category }) => {
 
   return (
     <>
-      <h3 className="text-cyan-100 p-5 font-bold text-3xl">{category}</h3>
+      <h3 className="text-cyan-100 p-10 font-bold text-3xl text-left">{category}</h3>
       {
         isLoading && (<h2>Cargando...</h2>)
       }
